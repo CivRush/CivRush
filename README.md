@@ -1,0 +1,2 @@
+# CivRush
+Core CivRush plugin 
